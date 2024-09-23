@@ -1,10 +1,13 @@
-Welcome to my GitHub profile!
+# 👋 Welcome to My GitHub Profile!
 
-- Current Projects: **The Eastern Trade Group & A&A Trade Solutions Websites**.
-- How to reach me: **yahyaimohamed2000@gmail.com**.
+## 🚀 Current Projects
+- **The Eastern Trade Group Website**
+- **A&A Trade Solutions Website**
 
-- **Languages**: JavaScript, Python
+## 💬 How to Reach Me
+- 📧 Email: [Your Email Here]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-- [LinkedIn](https://www.linkedin.com/in/ym2000) 
-
-Feel free to explore my repositories!
+## 💻 Languages
+- JavaScript
+- Python
