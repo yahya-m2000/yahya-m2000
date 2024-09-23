@@ -1,16 +1,17 @@
-## Hi there 👋
+Welcome to my GitHub profile! I'm a passionate developer with a love for building innovative applications. 🚀
 
-<!--
-**yahya-m2000/yahya-m2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About Me
+- 🔭 Current Projects: **The Eastern Trade Group & A&A Trade Solutions Websites**.
+- 📫 How to reach me: **yahyaimohamed2000@gmail.com**.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Tools
+- **Languages**: JavaScript, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ym2000) 
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahya-m2000&show_icons=true&theme=radical)
+
+## 🎉 Thanks for visiting!
+Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or just say hi! 😊
