@@ -5,8 +5,8 @@
 - **A&A Trade Solutions Website**
 
 ## 💬 How to Reach Me
-- 📧 Email: [Your Email Here]
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📧 Email: yahyaimohamed2000@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ym2000)
 
 ## 💻 Languages
 - JavaScript
