@@ -2,9 +2,7 @@
 
 ## Current Projects
 - **The Eastern Trade Group Website**
-- **A&A Trade Solutions Website**
-- **A&A Trade Solutions React Native App**
-- **Hadal (WORKING TITLE) Social Media**
+- **TrOCR Arabic Model for reading old Arabic written Manuscripts**
 
 ## How to Reach Me
 - Email: yahyaimohamed2000@gmail.com
