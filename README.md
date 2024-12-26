@@ -2,7 +2,7 @@
 
 ## Current Projects
 - **The Eastern Trade Group Website**
-- **TrOCR Arabic Model for reading old Arabic written Manuscripts**
+- **TrOCR model for Arabic manuscripts**
 
 ## How to Reach Me
 - Email: yahyaimohamed2000@gmail.com
