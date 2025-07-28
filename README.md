@@ -4,7 +4,7 @@ I'm a full-stack developer and AI enthusiast passionate about elegant design, in
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 ### [Hoybnb™ Platform](https://github.com/yahya-m2000/hoybnb-app)
 Cross-platform mobile client for the Hoy platform built with React Native (Expo). Connects to the Hoy API for booking flows, messaging, and user profiles.
@@ -38,7 +38,7 @@ A utility designed for preprocessing Arabic manuscript texts for LLM training.
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
 - 📧 Email: [yahyaimohamed2000@gmail.com](mailto:yahyaimohamed2000@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ym2000)
