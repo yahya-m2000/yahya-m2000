@@ -1,9 +1,9 @@
 ## Projects
 
-### [Hoybnb™ Platform](https://github.com/yahya-m2000/hoybnb-app)
+### [Hoybnb™ Platform](https://github.com/yahya-m2000/app-hoybnb)
 Cross-platform mobile client for the Hoy platform built with React Native (Expo). Connects to the Hoy API for booking flows, messaging, and user profiles.
 
-### [Hoybnb™ API Platform](https://github.com/yahya-m2000/hoybnb-api)
+### [Hoybnb™ API Platform](https://github.com/yahya-m2000/api-hoybnb)
 A commercial-grade backend for a property booking platform. Built with Node.js, TypeScript, and Redis.
 
 ### [Eastern Trade Group Website](https://github.com/yahya-m2000/etg_website)
