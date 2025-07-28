@@ -6,17 +6,17 @@ I'm a full-stack developer and AI enthusiast passionate about elegant design, in
 
 ## 🚀 Featured Projects
 
-### [Hoybnb API Platform](https://github.com/yahya-m2000/hoybnb-api)
-A commercial-grade backend for a property booking platform. Built with Node.js, TypeScript, and Redis. Handles listings, bookings, real-time messaging, and secure JWT-based auth.
+### [Hoybnb™ Platform](https://github.com/yahya-m2000/hoybnb-app)
+Cross-platform mobile client for the Hoy platform built with React Native (Expo). Connects to the Hoy API for booking flows, messaging, and user profiles.
+
+### [Hoybnb™ API Platform](https://github.com/yahya-m2000/hoybnb-api)
+A commercial-grade backend for a property booking platform. Built with Node.js, TypeScript, and Redis.
 
 ### [Eastern Trade Group Website](https://github.com/yahya-m2000/etg_website)
-A modern, responsive business website built with React, Tailwind CSS, and hosted on Vercel. Features custom animations, multi-language support, and dynamic content.
+A modern, responsive business website built with React, Tailwind CSS, and hosted on Vercel.
 
 ### [LLM Manuscript Formatter Tool](https://github.com/yahya-m2000/llm_manuscript_formatter_tool)
-A utility designed for preprocessing Arabic manuscript texts for LLM training. Includes tokenisation, transliteration mapping, and Tensor-ready output generation.
-
-### [Hoy App (Frontend)](https://github.com/yahya-m2000/hoy-app)
-Cross-platform mobile client for the Hoy platform built with React Native (Expo). Connects to the Hoy API for booking flows, messaging, and user profiles.
+A utility designed for preprocessing Arabic manuscript texts for LLM training.
 
 ---
 
