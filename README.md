@@ -1,9 +1,3 @@
-# Hi there — I'm Yahya!
-
-I'm a full-stack developer and AI enthusiast passionate about elegant design, intelligent systems, and clean architecture. I work at the intersection of web technology and machine learning — shipping commercial apps and research-grade tools.
-
----
-
 ## Projects
 
 ### [Hoybnb™ Platform](https://github.com/yahya-m2000/hoybnb-app)
@@ -20,7 +14,7 @@ A utility designed for preprocessing Arabic manuscript texts for LLM training.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
@@ -40,14 +34,14 @@ A utility designed for preprocessing Arabic manuscript texts for LLM training.
 
 ## Contact
 
-- 📧 Email: [yahyaimohamed2000@gmail.com](mailto:yahyaimohamed2000@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ym2000)
+- Email: [yahyaimohamed2000@gmail.com](mailto:yahyaimohamed2000@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ym2000)
 
 ---
 
 <div align="center">
 
-✨ *Thanks for visiting! Feel free to explore my work and star any repo you find interesting.*  
-🔥 *Always open to new opportunities and collaborations.*
+*Thanks for visiting! Feel free to explore my work and star any repo you find interesting.*  
+*Always open to new opportunities and collaborations.*
 
 </div>
