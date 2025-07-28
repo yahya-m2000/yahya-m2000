@@ -6,7 +6,7 @@ I'm a full-stack developer and AI enthusiast passionate about elegant design, in
 
 ## 🚀 Featured Projects
 
-### [Hoy API Platform](https://github.com/yahya-m2000/hoy-api)
+### [Hoybnb API Platform](https://github.com/yahya-m2000/hoybnb-api)
 A commercial-grade backend for a property booking platform. Built with Node.js, TypeScript, and Redis. Handles listings, bookings, real-time messaging, and secure JWT-based auth.
 
 ### [Eastern Trade Group Website](https://github.com/yahya-m2000/etg_website)
