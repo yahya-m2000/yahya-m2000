@@ -1,47 +1,45 @@
-## Projects
+<div align="center">
 
-### [Hoybnb™ Platform](https://github.com/yahya-m2000/app-hoybnb)
-Cross-platform mobile client for the Hoy platform built with React Native (Expo). Connects to the Hoy API for booking flows, messaging, and user profiles.
+# YAHYA
 
-### [Hoybnb™ API Platform](https://github.com/yahya-m2000/api-hoybnb)
-A commercial-grade backend for a property booking platform. Built with Node.js, TypeScript, and Redis.
+**FULL-STACK DEVELOPER & DESIGNER**
 
-### [Eastern Trade Group Website](https://github.com/yahya-m2000/etg_website)
-A modern, responsive business website built with React, Tailwind CSS, and hosted on Vercel.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ym2000.dev-0a0a0f?style=for-the-badge)](https://ym2000.dev)
+[![Email](https://img.shields.io/badge/EMAIL-hello%40ym2000.dev-ff3b5c?style=for-the-badge)](mailto:hello@ym2000.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ym2000-00e5a8?style=for-the-badge)](https://www.linkedin.com/in/ym2000)
 
-### [LLM Manuscript Formatter Tool](https://github.com/yahya-m2000/llm_manuscript_formatter_tool)
-A utility designed for preprocessing Arabic manuscript texts for LLM training.
+</div>
 
 ---
 
-## Tech Stack
+### STACK
 
-**Languages & Frameworks:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+<div align="center">
 
-**Tools & Services:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=ffd23f)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=00e5a8)
+![Python](https://img.shields.io/badge/-Python-0a0a0f?style=flat-square&logo=python&logoColor=ff3b5c)
+![React](https://img.shields.io/badge/-React-0a0a0f?style=flat-square&logo=react&logoColor=00e5a8)
+![Next.js](https://img.shields.io/badge/-Next.js-0a0a0f?style=flat-square&logo=next.js&logoColor=f5f3ee)
+![Node.js](https://img.shields.io/badge/-Node.js-0a0a0f?style=flat-square&logo=node.js&logoColor=ffd23f)
 
----
+![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0f?style=flat-square&logo=mongodb&logoColor=00e5a8)
+![Redis](https://img.shields.io/badge/-Redis-0a0a0f?style=flat-square&logo=redis&logoColor=ff3b5c)
+![Expo](https://img.shields.io/badge/-Expo-0a0a0f?style=flat-square&logo=expo&logoColor=f5f3ee)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0a0a0f?style=flat-square&logo=tailwindcss&logoColor=00e5a8)
+![Azure](https://img.shields.io/badge/-Azure-0a0a0f?style=flat-square&logo=microsoftazure&logoColor=ffd23f)
+![Vercel](https://img.shields.io/badge/-Vercel-0a0a0f?style=flat-square&logo=vercel&logoColor=f5f3ee)
 
-## Contact
-
-- Email: [yahyaimohamed2000@gmail.com](mailto:yahyaimohamed2000@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ym2000)
+</div>
 
 ---
 
 <div align="center">
 
-*Thanks for visiting! Feel free to explore my work and star any repo you find interesting.*  
-*Always open to new opportunities and collaborations.*
+Case studies, process, and design work → **[ym2000.dev](https://ym2000.dev)**
+
+**AVAILABLE FOR WORK**
+
+[hello@ym2000.dev](mailto:hello@ym2000.dev) · [@yahyagadiid](https://instagram.com/yahyagadiid) · [ym2000](https://www.linkedin.com/in/ym2000)
 
 </div>
